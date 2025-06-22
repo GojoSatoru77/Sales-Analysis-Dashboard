@@ -62,7 +62,7 @@ This project is a dynamic sales performance dashboard built using Microsoft Exce
 
 ## 📷 Dashboard Preview
 
-![Dashboard Snapshot](Final Snap.PNG)
+![Dashboard Snapshot](FinalSnap.PNG)
 
 ---
 
